@@ -8,7 +8,7 @@
 [![Discord.py](https://img.shields.io/badge/Discord.py-v2.3%2B-5865F2?logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-Enabled-green?logo=chainlink&logoColor=white)](https://langchain.com)
 [![Model](https://img.shields.io/badge/LLM-Llama_3_70B_via_Kindo-orange)](https://kindo.ai)
-[![Author](https://img.shields.io/badge/Author-Ketan_Singh-blueviolet)](https://github.com)
+[![Author](https://img.shields.io/badge/Author-Ketan_Singh-blueviolet)](https://github.com/Ken-1412)
 [![License](https://img.shields.io/badge/License-Proprietary-lightgrey)](#-ownership--contact)
 
 </div>
@@ -200,7 +200,7 @@ The detection system utilizes a two-tier specialized prompting design:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Baymod.git
+git clone https://github.com/Ken-1412/Baymod.git
 cd Baymod/baymod
 ```
 
@@ -297,5 +297,6 @@ Logged in as Baymod#1234
 ## 👤 Ownership & Contact
 
 * **Project Lead & Owner:** **Ketan Singh**
-* **Repository:** [Baymod](file:///d:/Downloads/Baymod)
+* **Repository:** [https://github.com/Ken-1412/Baymod](https://github.com/Ken-1412/Baymod)
+* **GitHub Profile:** [@Ken-1412](https://github.com/Ken-1412)
 * **License:** Proprietary — All rights reserved.
